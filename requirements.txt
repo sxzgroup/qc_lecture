@@ -1,0 +1,3 @@
+tensorcircuit-ng
+tensorflow
+cotengra
