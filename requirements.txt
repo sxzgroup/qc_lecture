@@ -1,3 +1,5 @@
 tensorcircuit-ng
 tensorflow
 cotengra
+jax
+qiskit
