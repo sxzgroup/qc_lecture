@@ -3,3 +3,4 @@ tensorflow
 cotengra
 jax
 qiskit
+matplotlib
