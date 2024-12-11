@@ -4,3 +4,5 @@ cotengra
 jax
 qiskit
 matplotlib
+pylatexenc
+black[jupyter]
