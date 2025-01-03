@@ -5,4 +5,5 @@ jax
 qiskit
 matplotlib
 pylatexenc
+jupyter
 black[jupyter]
