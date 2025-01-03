@@ -6,13 +6,13 @@
 
 # Quantum Computing Basics with TensorCircuit-NG
 
-_Materials for 1st ML&QC Winter School at Nankai University_
+_Materials for [1st ML&QC Winter School](https://indico.ihep.ac.cn/event/24170/) at Nankai University_
 
 ## Contents
 
 - `resources`: slides for QC introduction and lecture notes for QC by others.
 
-- `lectures`": jupyter notebooks on QC with code demos using TC-NG
+- `lectures`: jupyter notebooks on QC with code demos using TC-NG
 
 ## Setup
 
