@@ -14,6 +14,12 @@ _Materials for [1st ML&QC Winter School](https://indico.ihep.ac.cn/event/24170/)
 
 - `lectures`: jupyter notebooks on QC with code demos using TC-NG
 
+## TensorCircuit-NG
+
+[TensorCircuit-NG](https://github.com/tensorcircuit/tensorcircuit-ng) is an open-source high-performance quantum software framework, supporting for automatic differentiation, just-in-time compiling, hardware acceleration, and vectorized parallelism, providing unified infrastructures and interfaces for quantum programming. It can compose quantum circuits, neural networks and tensor networks seamlessly with high simulation efficiency and flexibility.
+
+Welcome to star and contribute to the project!
+
 ## Setup
 
 To run the jupyter notebooks in `lectures`, please first `pip install -r requirements.txt`. We suggest using anaconda to manage python environment, i.e.
